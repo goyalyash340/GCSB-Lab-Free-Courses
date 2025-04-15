@@ -34,3 +34,10 @@ Tools are API calls, defined by a schema in the OpenAPI 3.0 format.
 ```
 15k input tokens and 500 output tokens summed across a conversation turn
 ```
+>What are two powerful features of Generative Playbooks? (Select two options)
+```
+Playbooks enable LLMs to access APIs and tools.
+```
+```
+Playbooks can leverage LLMs for instruction-driven flow development.
+```
