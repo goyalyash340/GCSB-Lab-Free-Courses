@@ -1,10 +1,11 @@
->A news organization wants to develop an AI agent that delivers personalized news to each user. The agent should be able to:\n
-• Learn the user's interests and reading habits.
-• Filter and prioritize news articles based on relevance.
-• Summarize key information from multiple sources.
-• Recommend related articles and diverse perspectives.
-• Adapt to the user's feedback and evolving preferences.
-How would the "agents" layer contribute to the functionality of this personalized news reader application?
+> A news organization wants to develop an AI agent that delivers personalized news to each user. The agent should be able to:  
+> • Learn the user's interests and reading habits.  
+> • Filter and prioritize news articles based on relevance.  
+> • Summarize key information from multiple sources.  
+> • Recommend related articles and diverse perspectives.  
+> • Adapt to the user's feedback and evolving preferences.  
+>  
+> How would the "agents" layer contribute to the functionality of this personalized news reader application?
 ```
 The agents layer would define the specific tasks the AI performs, such as filtering articles, summarizing information, and making recommendations.
 ```
@@ -37,3 +38,4 @@ How would the "agents" layer and the "applications" layer work together to creat
 The agents layer would define the AI's capabilities (searching, booking, recommending), while the applications layer would provide the user-facing tool (website or app) to interact with the agent.
 
 ```
+
