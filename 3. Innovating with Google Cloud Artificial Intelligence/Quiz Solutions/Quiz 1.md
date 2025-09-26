@@ -9,7 +9,7 @@ Artificial intelligence
 ```
 ## Google's AI principles are a set of guiding values that help develop and use artificial intelligence responsibly. Which of these is one of Google’s AI principles?
 ```cmd
-AI should be socially beneficial.
+Google makes tools that empower others to harness AI for individual and collective benefit.
 ```
 ## Which dimension for measuring data quality means that the data conforms to a set of predefined standards and definitions such as type and format?
 ```cmd
