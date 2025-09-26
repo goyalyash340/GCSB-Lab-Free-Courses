@@ -8,9 +8,10 @@ Deploying AI on edge devices and smartphones
 ```
 >Your marketing team needs to quickly generate engaging product descriptions for an upcoming ecommerce sale. Which approach is the most efficient way to achieve this?
 ```
-Use a gen AI powered application like Gemini for Workspace to draft the descriptions.
+Use a gen AI powered application like Google Workspace with Gemini to draft the descriptions.
 ```
 >Who is responsible for building and deploying custom AI agents and integrating AI capabilities into applications?
 ```
 Developers
+
 ```
