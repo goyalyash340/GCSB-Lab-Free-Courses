@@ -7,7 +7,7 @@ He can select his work calendar, select Options next to the calendar list, then 
 ```
 >Thomas Omar frequently holds meetings with the On the Rise team. To simplify the scheduling process, he’d like to share his work calendar with everyone at the company. Which permission option should he select?
 ```
-Access permissions
+Make available to the organization (On the Rise)
 ```
 >Seroja Malone wants to share her work calendar exclusively with Anthony Dylan. What does she need to do?
 ```
