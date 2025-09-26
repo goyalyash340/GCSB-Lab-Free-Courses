@@ -1,8 +1,8 @@
->Which of the following is NOT a key feature of foundation models?
+>Which of the following is a primary feature of foundation models?
 ```
-Specialized to specific tasks.
+Adaptability across a wide range of tasks.
 ```
->Which of the following best defines a foundation model?
+>Which of the following defines a foundation model?
 ```
 Large AI models trained on a vast quantity of data, capable of adapting to a variety of tasks.
 ```
